@@ -1,4 +1,5 @@
 # vue-router-example
+https://www.youtube.com/watch?v=1Z7WfxiDTjk&list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El&index=8 faydanalınmıştır.
 
 ## Project setup
 ```
